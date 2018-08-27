@@ -1,0 +1,49 @@
+#star-layer * {
+				-webkit-transform-style: preserve-3d;
+				transform-style: preserve-3d;
+}
+
+#star-layer-1 {
+  width: 3px;
+  height: 3px;
+  border-radius: 3px;
+  background: transparent;
+  }
+  #star-layer-1:after {
+    content: " ";
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    border-radius: 3px;
+    background: transparent;
+     }
+
+#star-layer-2 {
+  width: 2px;
+  height: 2px;
+  border-radius: 2px;
+  background: transparent;
+   }
+  #star-layer-2:after {
+    content: " ";
+    position: absolute;
+    width: 2px;
+    height: 2px;
+    border-radius: 2px;
+    background: transparent;
+     }
+
+#star-layer-3 {
+  width: 1px;
+  height: 1px;
+  background: transparent;
+   }
+  #star-layer-3:after {
+    content: " ";
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    background: transparent;
+     }
+
+/*# sourceMappingURL=background.css.map */

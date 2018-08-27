@@ -1,0 +1,64 @@
+
+$n: 5000
+
+// n is number of stars required
+@function multiple-box-shadow ($n) 
+  $value: '#{random(100)}vw #{random(10000)}px #FFF'
+  @for $i from 2 through $n
+    $value: '#{$value} , #{random(100)}vw #{random(10000)}px #FFF'
+
+  @return unquote($value)
+
+$shadows-big:  multiple-box-shadow(500)
+$shadows-medium: multiple-box-shadow(1000)
+$shadows-small:    multiple-box-shadow(2000)
+
+    
+#star-layer-1
+  width: 3px
+  height: 3px
+  border-radius: 3px
+  background: transparent
+  box-shadow: $shadows-big
+  //animation			: animStar 150s linear infinite
+    
+  &:after
+    content: " "
+    position: absolute
+    width: 3px
+    height: 3px
+    border-radius: 3px
+    background: transparent
+    box-shadow: $shadows-big
+    
+#star-layer-2
+  width: 2px
+  height: 2px
+  border-radius: 2px
+  background: transparent
+  box-shadow: $shadows-medium
+  //animation			: animStar 100s linear infinite
+    
+  &:after
+    content: " "
+    position: absolute
+    width: 2px
+    height: 2px
+    border-radius: 2px
+    background: transparent
+    box-shadow: $shadows-medium
+    
+#star-layer-3
+  width: 1px
+  height: 1px
+  background: transparent
+  box-shadow: $shadows-small
+  //animation			: animStar 50s linear infinite
+    
+  &:after
+    content: " "
+    position: absolute
+    width: 1px
+    height: 1px
+    background: transparent
+    box-shadow: $shadows-small

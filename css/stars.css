@@ -1,0 +1,92 @@
+			div {
+				box-sizing: border-box;
+			}
+			
+			#page-container {
+				position: fixed;
+				top: 0;
+				left: 0;
+				right: 0;
+				bottom: 0px;
+				perspective: 1px;
+				overflow-x: hidden;
+				overflow-y: scroll;
+				
+			}
+			
+			#stars-container {
+				/*position:absolute;*/top:0;left:0;right:0;bottom:1000px;
+				
+			}
+			
+			#group1 {
+				
+				position:relative;
+				/*
+				-webkit-transform-style: preserve-3d;
+				transform-style: preserve-3d;
+				/**/
+			}
+			
+			.star-layer-3 {
+				transform: translateZ(-3px) scale(4);
+				height: 50vh;
+				width: 100%;
+				position: absolute;
+				top: -2000px;
+				background: transparent;
+			}
+			
+			.star-layer-2 {
+				transform: translateZ(-2px) scale(3);
+				height: 50vh;
+				width: 100%;
+				position: absolute;
+				top: -2000px;
+				background: transparent;
+			}
+			
+			.star-layer-1 {
+				transform: translateZ(-1px) scale(2);
+				height: 50vh;
+				width: 100%;
+				position: absolute;
+				top: -2000px;
+				background: transparent;
+			}
+			/*
+			#content {
+				background: transparent;
+			}
+			*/
+			
+
+
+/* drift animation */
+
+
+#star-layer-3 {
+	animation: animStar 750s linear infinite;
+}
+#star-layer-2 {
+	animation: animStar 500s linear infinite;
+}
+#star-layer-1 {
+	animation: animStar 250s linear infinite;
+}
+
+
+@keyframes animStar {
+	from {
+		transform: translateY(-2000px);
+	}
+	to {
+		transform: translateY(0px);
+	}
+}
+
+
+
+
+
+

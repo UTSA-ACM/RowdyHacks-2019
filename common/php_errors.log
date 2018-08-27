@@ -1,0 +1,2 @@
+[18-Feb-2018 23:31:22 America/Anchorage] PHP Warning:  require_once(./config.php): failed to open stream: No such file or directory in /Library/WebServer/Documents/rowdyhacks-2018/common/thanks.php on line 219
+[18-Feb-2018 23:31:22 America/Anchorage] PHP Fatal error:  require_once(): Failed opening required './config.php' (include_path='.:') in /Library/WebServer/Documents/rowdyhacks-2018/common/thanks.php on line 219
