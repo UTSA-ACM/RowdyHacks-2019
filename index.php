@@ -470,7 +470,7 @@
                                                 <li><a href="#home">Home</a></li>
                                                 <li><a href="#about">About</a></li>
                                                 <!--<li><a href="#schedule">Schedule</a></li>-->
-                                                <!--<li><a href="#sponsors">Sponsors</a></li>-->
+                                                <li><a href="#sponsors">Sponsors</a></li>
                                                 <li><a href="#faq">FAQ</a></li>
                                                 <!--<li><a href="#location">Location</a></li>-->
                                         </ul>
@@ -725,17 +725,16 @@
                 </div>
             </div>
         </section>
-
-
-
-
+        -->
+        
         <section id="sponsors" class="portfolio">
             <div class="container">
                 <div class="row" style="overflow:visible;">
                     <div class="main_mix_content text-center sections" style="overflow:visible;">
                         <div class="head_title">
-                            <h2>Sponsors</h2>
+                            <h2>Past Sponsors</h2>
                         </div>
+                        <!--
                         <div class="main_mix_menu">
                             <ul>
                                 <li class="btn btn-primary filter othbtn notsilver" data-filter="all">All</li>
@@ -746,6 +745,7 @@
                                 <li class="btn btn-primary filter notsilver" data-filter=".cat5" id="partner-button">Partners</li>
                             </ul>
                         </div>
+                        -->
 
                         <div id="mixcontent-desktop" class="mixcontent" style="overflow:visible;text-align:center;padding:0px 40px;">
                             <div class="row">
@@ -753,17 +753,11 @@
                                     <div class="col-sm-3 hidden-xs-down mix cat0 no-padding">
                                         <div class="mix-logo" style="background-image:url('assets/images/geekdom.png');">
                                         </div>
-                                        <div class="mix-description">
-                                            Geekdom is our platinum sponsor.
-                                        </div>
                                     </div>
                                 </a>
                                 <a href="https://www.afciviliancareers.com/">
                                     <div class="col-sm-3 hidden-xs-down mix cat1 no-padding">
                                         <div class="mix-logo" style="background-image:url('assets/images/usaf.png');">
-                                        </div>
-                                        <div class="mix-description">
-                                            Working shoulder to shoulder, we support and sustain the United States Air Force. Its aircraft. Its facilities. Its infrastructure. Its systems. And all 300,000 active duty Airmen.  We are the civilians who support and sustain the Air Force. At 180,000 strong, we too are a force to be reckoned with.
                                         </div>
                                     </div>
                                 </a>
@@ -771,17 +765,11 @@
                                     <div class="col-sm-3 hidden-xs-down mix cat1 no-padding">
                                         <div class="mix-logo" style="background-image:url('assets/images/cox.png');">
                                         </div>
-                                        <div class="mix-description">
-                                            We go all out. We make success a team sport. We’re the perfect mix of start-up attitude and big company resources. And, being part of a family-run business allows us to treat our team members and clients like they’re just that – family. We are Cox Automotive, and together, we are transforming the way the world buys, owns and sells vehicles.
-                                        </div>
                                     </div>
                                 </a>
                                 <a href="http://usaa.com">
                                     <div class="col-sm-3 hidden-xs-down mix no-padding">
                                         <div class="mix-logo" style="background-image:url('assets/images/usaa.png');">
-                                        </div>
-                                        <div class="mix-description">
-                                            The mission of the association is to facilitate the financial security of its members, associates, and their families through provision of a full range of highly competitive financial products and services; in so doing, USAA seeks to be the provider of choice for the military community.
                                         </div>
                                     </div>
                                 </a>
@@ -791,17 +779,11 @@
                                     <div class="col-sm-3 hidden-xs-down mix no-padding">
                                         <div class="mix-logo" style="background-image:url('assets/images/chevron.png');">
                                         </div>
-                                        <div class="mix-description">
-                                            Chevron is a silver sponsor.
-                                        </div>
                                     </div>
                                 </a>
                                 <a href="https://www.motiva.com/">
                                     <div class="col-sm-3 hidden-xs-down mix cat3 no-padding">
                                         <div class="mix-logo" style="background-image:url('assets/images/motiva.png');">
-                                        </div>
-                                        <div class="mix-description">
-                                            At Motiva, our success is powered by the collective energy and passion of our 2,300 dedicated US employees. We own and operate North America’s largest refinery, and through a network of 24 distribution terminals, we supply retail outlets with gasoline and diesel under the Shell and 76® brands.
                                         </div>
                                     </div>
                                 </a>
@@ -809,28 +791,45 @@
                                     <div class="col-sm-3 hidden-xs-down mix cat3 no-padding">
                                         <div class="mix-logo" style="background-image:url('assets/images/infosys.png');">
                                         </div>
-                                        <div class="mix-description">
-                                            Infosys is a global leader in technology services & consulting helping clients in more than 50 countries to create & execute digital transformation strategies.
-                                        </div>
                                     </div>
                                 </a>
                                 <a href="https://www.army.mil/armymedicine/">
                                     <div class="col-sm-3 hidden-xs-down mix no-padding">
                                         <div class="mix-logo" style="background-image:url('assets/images/medcom.png');">
                                         </div>
-                                        <div class="mix-description">
-                                            US Army Medical Command is very interested in mobile applications that can support prolonged field care in the theater of operation.  Of particular interest is how these how these apps can transmit data and facilitate clinical decision making in remote areas that lack access to significant medical resources.
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="row">
+                                <a href="http://developer.amazon.com/alexa">
+                                    <div class="col-sm-3 hidden-xs-down mix no-padding">
+                                        <div class="mix-logo" style="background-image:url('assets/images/alexa.png');">
+                                        </div>
+                                    </div>
+                                </a>
+                                <a href="http://promoter.io">
+                                    <div class="col-sm-3 hidden-xs-down mix no-padding">
+                                        <div class="mix-logo" style="background-image:url('assets/images/promoter.png');">
+                                        </div>
+                                    </div>
+                                </a>
+                                <a href="http://youthcodejam.org">
+                                    <div class="col-sm-3 hidden-xs-down mix no-padding">
+                                        <div class="mix-logo" style="background-image:url('assets/images/sa-code-jam.png');">
+                                        </div>
+                                    </div>
+                                </a>
+                                <a href="http://accenture.com">
+                                    <div class="col-sm-3 hidden-xs-down mix no-padding">
+                                        <div class="mix-logo" style="background-image:url('assets/images/accenture.png');">
                                         </div>
                                     </div>
                                 </a>
                             </div>
                             <div class="row">
-                                <a href="http://accenture.com">
+                                <a href="http://cs.utsa.edu">
                                     <div class="col-sm-3 hidden-xs-down mix no-padding">
-                                        <div class="mix-logo" style="background-image:url('assets/images/accenture.png');">
-                                        </div>
-                                        <div class="mix-description">
-                                            Accenture Federal Services, a wholly-owned subsidiary of Accenture, helps U.S. federal agencies build the government of the future. Accenture Federal Services is uniquely positioned to support federal agencies in shattering the status quo, achieving profound efficiencies and relentlessly delivering results. Accenture Federal Services is a long-time and trusted resource for the federal community. Every cabinet level agency in the United States-and 20 of the country's largest federal government agencies-have worked with Accenture Federal Services to achieve outcomes and move toward high performance.
+                                        <div class="mix-logo" style="background-image:url('assets/images/cs-department.png');">
                                         </div>
                                     </div>
                                 </a>
@@ -838,17 +837,11 @@
                                     <div class="col-sm-3 hidden-xs-down mix no-padding">
                                         <div class="mix-logo" style="background-image:url('assets/images/acm.png');">
                                         </div>
-                                        <div class="mix-description">
-                                            ACM UTSA is the host of RowdyHacks and a student run non-profit at UTSA, dedicated to helping students grow and learn more about technology and industry.
-                                        </div>
                                     </div>
                                 </a>
                                 <a href="http://acm-utsa.org/groups">
                                     <div class="col-sm-3 hidden-xs-down mix no-padding">
                                         <div class="mix-logo" style="background-image:url('assets/images/acm-w.png');">
-                                        </div>
-                                        <div class="mix-description">
-                                            ACM-W aims to create an engaging academic, professional, and social network for women and minorities in technology. Our purpose is to connect students with leaders and encourage them to pursue career opportunities in computing fields and to mentor for academic and professional success.
                                         </div>
                                     </div>
                                 </a>
@@ -859,17 +852,11 @@
                                     <div class="col-sm-3 hidden-xs-down mix cat5 no-padding">
                                         <div class="mix-logo" style="background-image:url('assets/images/medcom.png');">
                                         </div>
-                                        <div class="mix-description">
-                                            US Army Medical Command is very interested in mobile applications that can support prolonged field care in the theater of operation.  Of particular interest is how these how these apps can transmit data and facilitate clinical decision making in remote areas that lack access to significant medical resources.
-                                        </div>
                                     </div>
                                 </a>
                                 <a href="http://accenture.com">
                                     <div class="col-sm-3 hidden-xs-down mix cat5 no-padding">
                                         <div class="mix-logo" style="background-image:url('assets/images/accenture.png');">
-                                        </div>
-                                        <div class="mix-description">
-                                            Accenture Federal Services, a wholly-owned subsidiary of Accenture, helps U.S. federal agencies build the government of the future. Accenture Federal Services is uniquely positioned to support federal agencies in shattering the status quo, achieving profound efficiencies and relentlessly delivering results. Accenture Federal Services is a long-time and trusted resource for the federal community. Every cabinet level agency in the United States-and 20 of the country's largest federal government agencies-have worked with Accenture Federal Services to achieve outcomes and move toward high performance.
                                         </div>
                                     </div>
                                 </a>
@@ -877,17 +864,11 @@
                                     <div class="col-sm-3 hidden-xs-down mix cat5 no-padding">
                                         <div class="mix-logo" style="background-image:url('assets/images/acm.png');">
                                         </div>
-                                        <div class="mix-description">
-                                            ACM UTSA is the host of RowdyHacks and a student run non-profit at UTSA, dedicated to helping students grow and learn more about technology and industry.
-                                        </div>
                                     </div>
                                 </a>
                                 <a href="http://acm-utsa.org/groups">
                                     <div class="col-sm-3 hidden-xs-down mix cat5 no-padding">
                                         <div class="mix-logo" style="background-image:url('assets/images/acm-w.png');">
-                                        </div>
-                                        <div class="mix-description">
-                                            ACM-W aims to create an engaging academic, professional, and social network for women and minorities in technology. Our purpose is to connect students with leaders and encourage them to pursue career opportunities in computing fields and to mentor for academic and professional success.
                                         </div>
                                     </div>
                                 </a>
@@ -897,17 +878,11 @@
                                     <div class="col-sm-3 hidden-xs-down mix cat2 no-padding">
                                         <div class="mix-logo" style="background-image:url('assets/images/usaa.png');">
                                         </div>
-                                        <div class="mix-description">
-                                            The mission of the association is to facilitate the financial security of its members, associates, and their families through provision of a full range of highly competitive financial products and services; in so doing, USAA seeks to be the provider of choice for the military community.
-                                        </div>
                                     </div>
                                 </a>
                                 <a href="http://chevron.com">
                                     <div class="col-sm-3 hidden-xs-down mix cat2 no-padding">
                                         <div class="mix-logo" style="background-image:url('assets/images/chevron.png');">
-                                        </div>
-                                        <div class="mix-description">
-                                            Chevron is a silver sponsor.
                                         </div>
                                     </div>
                                 </a>
@@ -920,17 +895,11 @@
                                     <div class="col-xs-12 hidden-sm-up mix cat0 no-padding">
                                         <div style="background-image:url('assets/images/geekdom.png');">
                                         </div>
-                                        <div>
-                                            Geekdom is our platinum sponsor.
-                                        </div>
                                     </div>
                                 </a>
                                 <a href="https://www.afciviliancareers.com/">
                                     <div class="col-xs-12 hidden-sm-up mix cat1 no-padding">
                                         <div style="background-image:url('assets/images/usaf.png');">
-                                        </div>
-                                        <div>
-                                            Working shoulder to shoulder, we support and sustain the United States Air Force. Its aircraft. Its facilities. Its infrastructure. Its systems. And all 300,000 active duty Airmen.  We are the civilians who support and sustain the Air Force. At 180,000 strong, we too are a force to be reckoned with.
                                         </div>
                                     </div>
                                 </a>
@@ -938,17 +907,11 @@
                                     <div class="col-xs-12 hidden-sm-up mix cat1 no-padding">
                                         <div style="background-image:url('assets/images/cox.png');">
                                         </div>
-                                        <div>
-                                            We go all out. We make success a team sport. We’re the perfect mix of start-up attitude and big company resources. And, being part of a family-run business allows us to treat our team members and clients like they’re just that – family. We are Cox Automotive, and together, we are transforming the way the world buys, owns and sells vehicles.
-                                        </div>
                                     </div>
                                 </a>
                                 <a href="http://usaa.com">
                                     <div class="hidden-sm-up col-xs-12 mix cat2 no-padding">
                                         <div style="background-image:url('assets/images/usaa.png');">
-                                        </div>
-                                        <div>
-                                            The mission of the association is to facilitate the financial security of its members, associates, and their families through provision of a full range of highly competitive financial products and services; in so doing, USAA seeks to be the provider of choice for the military community.
                                         </div>
                                     </div>
                                 </a>
@@ -956,17 +919,11 @@
                                     <div class="hidden-sm-up col-xs-12 mix cat2 no-padding">
                                         <div style="background-image:url('assets/images/chevron.png');">
                                         </div>
-                                        <div>
-                                            Chevron is a silver sponsor.
-                                        </div>
                                     </div>
                                 </a>
                                 <a href="https://www.motiva.com/">
                                     <div class="col-xs-12 hidden-sm-up mix cat3 no-padding">
                                         <div style="background-image:url('assets/images/motiva.png');">
-                                        </div>
-                                        <div>
-                                            At Motiva, our success is powered by the collective energy and passion of our 2,300 dedicated US employees. We own and operate North America’s largest refinery, and through a network of 24 distribution terminals, we supply retail outlets with gasoline and diesel under the Shell and 76® brands.
                                         </div>
                                     </div>
                                 </a>
@@ -974,17 +931,11 @@
                                     <div class="col-xs-12 hidden-sm-up mix cat3 no-padding">
                                         <div style="background-image:url('assets/images/infosys.png');">
                                         </div>
-                                        <div>
-                                            Infosys is a global leader in technology services & consulting helping clients in more than 50 countries to create & execute digital transformation strategies.
-                                        </div>
                                     </div>
                                 </a>
                                 <a href="https://www.army.mil/armymedicine/">
                                     <div class="col-xs-12 hidden-sm-up mix cat5 no-padding">
                                         <div style="background-image:url('assets/images/medcom.png');">
-                                        </div>
-                                        <div>
-                                            US Army Medical Command is very interested in mobile applications that can support prolonged field care in the theater of operation.  Of particular interest is how these how these apps can transmit data and facilitate clinical decision making in remote areas that lack access to significant medical resources.
                                         </div>
                                     </div>
                                 </a>
@@ -992,8 +943,29 @@
                                     <div class="col-xs-12 hidden-sm-up mix cat5 no-padding">
                                         <div style="background-image:url('assets/images/accenture.png');">
                                         </div>
-                                        <div>
-                                            Accenture Federal Services, a wholly-owned subsidiary of Accenture, helps U.S. federal agencies build the government of the future. Accenture Federal Services is uniquely positioned to support federal agencies in shattering the status quo, achieving profound efficiencies and relentlessly delivering results. Accenture Federal Services is a long-time and trusted resource for the federal community. Every cabinet level agency in the United States-and 20 of the country's largest federal government agencies-have worked with Accenture Federal Services to achieve outcomes and move toward high performance.
+                                    </div>
+                                </a>
+                                <a href="http://developer.amazon.com/alexa">
+                                    <div class="col-xs-12 hidden-sm-up mix cat5 no-padding">
+                                        <div style="background-image:url('assets/images/alexa.png');">
+                                        </div>
+                                    </div>
+                                </a>
+                                <a href="http://promoter.io">
+                                    <div class="col-xs-12 hidden-sm-up mix cat5 no-padding">
+                                        <div style="background-image:url('assets/images/promoter.png');">
+                                        </div>
+                                    </div>
+                                </a>
+                                <a href="http://cs.utsa.edu">
+                                    <div class="col-xs-12 hidden-sm-up mix cat5 no-padding">
+                                        <div style="background-image:url('assets/images/cs-department.png');">
+                                        </div>
+                                    </div>
+                                </a>
+                                <a href="http://youthcodejam.org">
+                                    <div class="col-xs-12 hidden-sm-up mix cat5 no-padding">
+                                        <div style="background-image:url('assets/images/sa-code-jam.png');">
                                         </div>
                                     </div>
                                 </a>
@@ -1001,17 +973,11 @@
                                     <div class="col-xs-12 hidden-sm-up mix cat5 no-padding">
                                         <div style="background-image:url('assets/images/acm.png');">
                                         </div>
-                                        <div>
-                                            ACM UTSA is the host of RowdyHacks and a student run non-profit at UTSA, dedicated to helping students grow and learn more about technology and industry.
-                                        </div>
                                     </div>
                                 </a>
                                 <a href="http://acm-utsa.org/groups">
                                     <div class="col-xs-12 hidden-sm-up mix cat5 no-padding">
                                         <div style="background-image:url('assets/images/acm-w.png');">
-                                        </div>
-                                        <div>
-                                            ACM-W aims to create an engaging academic, professional, and social network for women and minorities in technology. Our purpose is to connect students with leaders and encourage them to pursue career opportunities in computing fields and to mentor for academic and professional success.
                                         </div>
                                     </div>
                                 </a>
@@ -1022,7 +988,7 @@
             </div>
         </section>      
 
-
+        <!--
         <section id="counter" class="counter">
             <div class="overlay">
                 <div class="container">
