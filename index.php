@@ -470,8 +470,8 @@
                                                 <li><a href="#home">Home</a></li>
                                                 <li><a href="#about">About</a></li>
                                                 <!--<li><a href="#schedule">Schedule</a></li>-->
-                                                <li><a href="#sponsors">Sponsors</a></li>
                                                 <li><a href="#faq">FAQ</a></li>
+                                                <li><a href="#sponsors">Sponsors</a></li>
                                                 <!--<li><a href="#location">Location</a></li>-->
                                         </ul>
                                     </div>
@@ -727,6 +727,156 @@
         </section>
         -->
         
+        <!--
+        <section id="counter" class="counter">
+            <div class="overlay">
+                <div class="container">
+                    <div class="row">
+                        <div class="main_counter sections text-center">
+                            <div class="col-sm-10 col-sm-offset-1">
+                                <div class="row">
+                                    <div class="col-sm-3 col-xs-12">
+                                        <div class="single_counter_right">
+                                            <i class="lnr lnr-clock"></i>
+                                            <h2 class="statistic-counter">24</h2>
+                                            <p>Hours</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 col-xs-12">
+                                        <div class="single_counter_right">
+                                            <i class="lnr lnr-users"></i>
+                                            <h2 class="statistic-counter">100</h2>
+                                            <p>Attendees</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 col-xs-12">
+                                        <div class="single_counter_right">
+                                            <i class="lnr lnr-heart"></i>
+                                            <h2 class="statistic-counter">25</h2>
+                                            <p>Teams</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 col-xs-12">
+                                        <div class="single_counter_right">
+                                            <i class="lnr lnr-gift"></i>
+                                            <h2 class="statistic-counter">2,000</h2>
+                                            <p>Total Prizes Value</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        -->
+
+        <section id="faq" class="faq">
+            <div class="container">
+                <div class="row">
+                    <div class="main_faq sections">
+                        <div style="color:#fefefe;">
+                            <h2 style="text-align:center;">
+                                FAQ
+                            </h2>
+                            <div class="row" style="overflow-y:hidden;">
+                                <div class="col-sm-12" style="overflow-x:visible;">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="faq-item">
+                                                <h3>
+                                                    What if I don’t know how to code?
+                                                </h3>
+                                                That’s okay! RowdyHacks will have plenty of mentors and peers to help you learn. You don’t have to be an experienced coder to attend, and RowdyHacks is a great way to get into technology!
+                                            </div>
+                                            <div class="faq-item">
+                                                <h3>
+                                                    How big are the teams?
+                                                </h3>
+                                                Teams can be formed of up to 4 students. The more brain power, the better! You can register with your friends, but many teams are formed at the event.
+                                            </div>
+                                            <!--
+                                            <div class="faq-item">
+                                                <h3>
+                                                    How can I get to RowdyHacks?
+                                                </h3>
+                                                Transportation will be provided for UTSA students from the Main 1604 Campus to Geekdom. Students from other universities will need to provide their own transportation. Check out the Location tab for more information.
+                                            </div>
+                                            -->
+                                            <div class="faq-item">
+                                                <h3>
+                                                    What should my project be?
+                                                </h3>
+                                                Anything! You can make a new social media website, a simple weather app, a sentiment analysis tool for tweets...anything your wildest imagination can create. Your team can come prepared with an idea, or come up with one on the spot. Here are some ideas to get you started: <a href="https://goo.gl/h7LEMr">https://goo.gl/h7LEMr</a>
+                                            </div>
+                                            <!--
+                                            <div class="faq-item">
+                                                <h3>
+                                                    Who can attend?
+                                                </h3>
+                                                In the past, RowdyHacks has only been open to UTSA students. This year we’re excited to announce that we’ll be opening registration to other San Antonio area universities! If you’re a college student in the San Antonio area, you’re eligible to attend RowdyHacks 2019.
+                                            </div>
+                                            -->
+                                        </div>
+                                        <div class="col-md-6">
+                                        <!--
+                                            <div class="faq-item">
+                                                <h3>
+                                                    Where will RowdyHacks take place?
+                                                </h3>
+                                                We are excited to announce our partnership with collaborative coworking space Geekdom to bring you RowdyHacks 2019. This year’s event will take place in downtown San Antonio at Geekdom’s offices. Check out the Location tab for more information.
+                                            </div>
+                                            -->
+                                            <!--
+                                            <div class="faq-item">
+                                                <h3>
+                                                    Who is allowed to register?
+                                                </h3>
+                                                Due to limited spacing/seatings at Geekdom, we are only accepting undergraduate college stuents. We hope in the future we can expand our event to Masters/PhD students.
+                                            </div>
+                                            -->
+                                            <div class="faq-item">
+                                                <h3>
+                                                    How much does it cost?
+                                                </h3>
+                                                RowdyHacks is absolutely free, thanks to our awesome sponsors. You don’t have to worry about a thing -- we’ll provide the food, t-shirts, snacks and prizes!
+                                            </div>
+                                            <div class="faq-item">
+                                                <h3>
+                                                    What should I bring?
+                                                </h3>
+                                                Any hardware you plan on using for your project -- your laptop, charger, portable mouse, phone, raspberry pi, VR headset, robots, etc. You might also want to bring a change of clothes and toiletries.
+                                            </div>
+                                            <!--
+                                            <div id="response-container" class="faq-item">
+                                                <h3 id="response-title" style="margin: 5px 0px 0px 0px;">
+                                                    Have another question? Ask here.
+                                                </h3>
+                                                <div id="response">
+                                                    <div class="response-answer-container">
+                                                        <div class="response-item response-answer">
+                                                            You can ask here, or feel free to reach out to the RowdyHacks Team at <a href="mailto:team@rowdyhacks.org">team@rowdyhacks.org</a>. We’d be happy to help!
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div id="response-form-container">
+                                                    <form id="response-form">
+                                                        <input type="text" id="response-input"><input type="button" id="response-send" value="Send" />
+                                                    </form>
+                                                </div>
+                                            </div>
+                                            -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <section id="sponsors" class="portfolio">
             <div class="container">
                 <div class="row" style="overflow:visible;">
@@ -987,156 +1137,6 @@
                 </div>
             </div>
         </section>      
-
-        <!--
-        <section id="counter" class="counter">
-            <div class="overlay">
-                <div class="container">
-                    <div class="row">
-                        <div class="main_counter sections text-center">
-                            <div class="col-sm-10 col-sm-offset-1">
-                                <div class="row">
-                                    <div class="col-sm-3 col-xs-12">
-                                        <div class="single_counter_right">
-                                            <i class="lnr lnr-clock"></i>
-                                            <h2 class="statistic-counter">24</h2>
-                                            <p>Hours</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-3 col-xs-12">
-                                        <div class="single_counter_right">
-                                            <i class="lnr lnr-users"></i>
-                                            <h2 class="statistic-counter">100</h2>
-                                            <p>Attendees</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-3 col-xs-12">
-                                        <div class="single_counter_right">
-                                            <i class="lnr lnr-heart"></i>
-                                            <h2 class="statistic-counter">25</h2>
-                                            <p>Teams</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-3 col-xs-12">
-                                        <div class="single_counter_right">
-                                            <i class="lnr lnr-gift"></i>
-                                            <h2 class="statistic-counter">2,000</h2>
-                                            <p>Total Prizes Value</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        -->
-
-        <section id="faq" class="faq">
-            <div class="container">
-                <div class="row">
-                    <div class="main_faq sections">
-                        <div style="color:#fefefe;">
-                            <h2 style="text-align:center;">
-                                FAQ
-                            </h2>
-                            <div class="row" style="overflow-y:hidden;">
-                                <div class="col-sm-12" style="overflow-x:visible;">
-                                    <div class="row">
-                                        <div class="col-md-6">
-                                            <div class="faq-item">
-                                                <h3>
-                                                    What if I don’t know how to code?
-                                                </h3>
-                                                That’s okay! RowdyHacks will have plenty of mentors and peers to help you learn. You don’t have to be an experienced coder to attend, and RowdyHacks is a great way to get into technology!
-                                            </div>
-                                            <div class="faq-item">
-                                                <h3>
-                                                    How big are the teams?
-                                                </h3>
-                                                Teams can be formed of up to 4 students. The more brain power, the better! You can register with your friends, but many teams are formed at the event.
-                                            </div>
-                                            <!--
-                                            <div class="faq-item">
-                                                <h3>
-                                                    How can I get to RowdyHacks?
-                                                </h3>
-                                                Transportation will be provided for UTSA students from the Main 1604 Campus to Geekdom. Students from other universities will need to provide their own transportation. Check out the Location tab for more information.
-                                            </div>
-                                            -->
-                                            <div class="faq-item">
-                                                <h3>
-                                                    What should my project be?
-                                                </h3>
-                                                Anything! You can make a new social media website, a simple weather app, a sentiment analysis tool for tweets...anything your wildest imagination can create. Your team can come prepared with an idea, or come up with one on the spot. Here are some ideas to get you started: <a href="https://goo.gl/h7LEMr">https://goo.gl/h7LEMr</a>
-                                            </div>
-                                            <!--
-                                            <div class="faq-item">
-                                                <h3>
-                                                    Who can attend?
-                                                </h3>
-                                                In the past, RowdyHacks has only been open to UTSA students. This year we’re excited to announce that we’ll be opening registration to other San Antonio area universities! If you’re a college student in the San Antonio area, you’re eligible to attend RowdyHacks 2019.
-                                            </div>
-                                            -->
-                                        </div>
-                                        <div class="col-md-6">
-                                        <!--
-                                            <div class="faq-item">
-                                                <h3>
-                                                    Where will RowdyHacks take place?
-                                                </h3>
-                                                We are excited to announce our partnership with collaborative coworking space Geekdom to bring you RowdyHacks 2019. This year’s event will take place in downtown San Antonio at Geekdom’s offices. Check out the Location tab for more information.
-                                            </div>
-                                            -->
-                                            <!--
-                                            <div class="faq-item">
-                                                <h3>
-                                                    Who is allowed to register?
-                                                </h3>
-                                                Due to limited spacing/seatings at Geekdom, we are only accepting undergraduate college stuents. We hope in the future we can expand our event to Masters/PhD students.
-                                            </div>
-                                            -->
-                                            <div class="faq-item">
-                                                <h3>
-                                                    How much does it cost?
-                                                </h3>
-                                                RowdyHacks is absolutely free, thanks to our awesome sponsors. You don’t have to worry about a thing -- we’ll provide the food, t-shirts, snacks and prizes!
-                                            </div>
-                                            <div class="faq-item">
-                                                <h3>
-                                                    What should I bring?
-                                                </h3>
-                                                Any hardware you plan on using for your project -- your laptop, charger, portable mouse, phone, raspberry pi, VR headset, robots, etc. You might also want to bring a change of clothes and toiletries.
-                                            </div>
-                                            <!--
-                                            <div id="response-container" class="faq-item">
-                                                <h3 id="response-title" style="margin: 5px 0px 0px 0px;">
-                                                    Have another question? Ask here.
-                                                </h3>
-                                                <div id="response">
-                                                    <div class="response-answer-container">
-                                                        <div class="response-item response-answer">
-                                                            You can ask here, or feel free to reach out to the RowdyHacks Team at <a href="mailto:team@rowdyhacks.org">team@rowdyhacks.org</a>. We’d be happy to help!
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div id="response-form-container">
-                                                    <form id="response-form">
-                                                        <input type="text" id="response-input"><input type="button" id="response-send" value="Send" />
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            -->
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
 
         <!--
         <section id="location">
