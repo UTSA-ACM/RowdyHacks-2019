@@ -467,14 +467,12 @@
 
                                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                                         <ul class="nav navbar-nav navbar-right">
-                                            <!--
                                                 <li><a href="#home">Home</a></li>
                                                 <li><a href="#about">About</a></li>
-                                                <li><a href="#schedule">Schedule</a></li>
-                                                <li><a href="#sponsors">Sponsors</a></li>
+                                                <!--<li><a href="#schedule">Schedule</a></li>-->
+                                                <!--<li><a href="#sponsors">Sponsors</a></li>-->
                                                 <li><a href="#faq">FAQ</a></li>
-                                                <li><a href="#location">Location</a></li>
-                                            -->
+                                                <!--<li><a href="#location">Location</a></li>-->
                                         </ul>
                                     </div>
 
@@ -524,8 +522,8 @@
                                     <div class="">
                                         <div class="main_home">
                                             <h1><div class="main_home_title" style="font-family:'YellowTail';font-size:120%">RowdyHacks</div><br />2019</h1>
+                                            <p class="subtitle">April 6 - 7</p>
                                             <p class="subtitle">San Antonio, TX</p>
-                                            <p class="subtitle">More coming soon!</p>
                                             <div class="home_btn">
                                                 <?php
                                                     if(1){
@@ -560,7 +558,6 @@
 
 
 
-        <!--
         <section id="about" class="about">
             <div class="container">
                 <div class="row">
@@ -612,7 +609,7 @@
             </div>
         </section>
 
-
+        <!--
         <section id="schedule" class="schedule">
             <div class="container-fluid">
                 <div class="row">
@@ -1068,8 +1065,8 @@
                 </div>
             </div>
         </section>
-
-
+        -->
+        <!--
         <section id="faq" class="faq">
             <div class="container">
                 <div class="row">
@@ -1164,7 +1161,8 @@
                 </div>
             </div>
         </section>
-
+        -->
+        <!--
         <section id="location">
             <div class="container-fluid">
                 <div class="row">
@@ -1333,7 +1331,6 @@
 
 
 
-<!--
         <footer id="footer" class="footer">
             <div class="container">
                 <div class="main_footer">
@@ -1357,7 +1354,6 @@
                 </div>
             </div>
         </footer>
--->
 
 
         <!-- START SCROLL TO TOP  -->
