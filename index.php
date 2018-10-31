@@ -1066,7 +1066,7 @@
             </div>
         </section>
         -->
-        <!--
+
         <section id="faq" class="faq">
             <div class="container">
                 <div class="row">
@@ -1091,38 +1091,46 @@
                                                 </h3>
                                                 Teams can be formed of up to 4 students. The more brain power, the better! You can register with your friends, but many teams are formed at the event.
                                             </div>
+                                            <!--
                                             <div class="faq-item">
                                                 <h3>
                                                     How can I get to RowdyHacks?
                                                 </h3>
                                                 Transportation will be provided for UTSA students from the Main 1604 Campus to Geekdom. Students from other universities will need to provide their own transportation. Check out the Location tab for more information.
                                             </div>
+                                            -->
                                             <div class="faq-item">
                                                 <h3>
                                                     What should my project be?
                                                 </h3>
-                                                Anything! You can make a new social media website, a simple weather app, a sentiment analysis tool for tweets...anything your wildest imagination can create. Your team can come prepared with an idea, or come up with one on the spot. Here’s some ideas to get you started: <a href="https://goo.gl/h7LEMr">https://goo.gl/h7LEMr</a>
+                                                Anything! You can make a new social media website, a simple weather app, a sentiment analysis tool for tweets...anything your wildest imagination can create. Your team can come prepared with an idea, or come up with one on the spot. Here are some ideas to get you started: <a href="https://goo.gl/h7LEMr">https://goo.gl/h7LEMr</a>
                                             </div>
+                                            <!--
                                             <div class="faq-item">
                                                 <h3>
                                                     Who can attend?
                                                 </h3>
                                                 In the past, RowdyHacks has only been open to UTSA students. This year we’re excited to announce that we’ll be opening registration to other San Antonio area universities! If you’re a college student in the San Antonio area, you’re eligible to attend RowdyHacks 2019.
                                             </div>
+                                            -->
                                         </div>
                                         <div class="col-md-6">
+                                        <!--
                                             <div class="faq-item">
                                                 <h3>
                                                     Where will RowdyHacks take place?
                                                 </h3>
                                                 We are excited to announce our partnership with collaborative coworking space Geekdom to bring you RowdyHacks 2019. This year’s event will take place in downtown San Antonio at Geekdom’s offices. Check out the Location tab for more information.
                                             </div>
+                                            -->
+                                            <!--
                                             <div class="faq-item">
                                                 <h3>
                                                     Who is allowed to register?
                                                 </h3>
                                                 Due to limited spacing/seatings at Geekdom, we are only accepting undergraduate college stuents. We hope in the future we can expand our event to Masters/PhD students.
                                             </div>
+                                            -->
                                             <div class="faq-item">
                                                 <h3>
                                                     How much does it cost?
@@ -1135,6 +1143,7 @@
                                                 </h3>
                                                 Any hardware you plan on using for your project -- your laptop, charger, portable mouse, phone, raspberry pi, VR headset, robots, etc. You might also want to bring a change of clothes and toiletries.
                                             </div>
+                                            <!--
                                             <div id="response-container" class="faq-item">
                                                 <h3 id="response-title" style="margin: 5px 0px 0px 0px;">
                                                     Have another question? Ask here.
@@ -1152,6 +1161,7 @@
                                                     </form>
                                                 </div>
                                             </div>
+                                            -->
                                         </div>
                                     </div>
                                 </div>
@@ -1161,7 +1171,7 @@
                 </div>
             </div>
         </section>
-        -->
+
         <!--
         <section id="location">
             <div class="container-fluid">
