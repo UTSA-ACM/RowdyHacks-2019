@@ -21,7 +21,6 @@
         <link rel="stylesheet" href="assets/css/font-awesome.min.css">
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 
-
         <!--For Plugins external css-->
         <link rel="stylesheet" href="assets/css/plugins.css" />
 
@@ -34,6 +33,7 @@
         
         <link href="https://fonts.googleapis.com/css?family=Yellowtail" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css?family=Raleway:900" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto:300,900" rel="stylesheet">
 
         <script src="assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -472,7 +472,7 @@
                                                 <!--<li><a href="#schedule">Schedule</a></li>-->
                                                 <li><a href="#faq">FAQ</a></li>
                                                 <li><a href="#sponsors">Sponsors</a></li>
-                                                <!--<li><a href="#location">Location</a></li>-->
+                                                <li><a href="#location">Location</a></li>
                                         </ul>
                                     </div>
 
@@ -522,8 +522,8 @@
                                     <div class="">
                                         <div class="main_home">
                                             <h1><div class="main_home_title" style="font-family:'YellowTail';font-size:120%">RowdyHacks</div><br />2019</h1>
-                                            <p class="subtitle">April 6 - 7</p>
-                                            <p class="subtitle">San Antonio, TX</p>
+                                            <p class="subtitle">April 13 - 14</p>
+                                            <p class="subtitle"><a href="https://goo.gl/maps/EY2sgzD3KMn" target="_blank" style="color:inherit;">UTSA Downtown</a></p>
                                             <div class="home_btn">
                                                 <?php
                                                     if(1){
@@ -820,14 +820,12 @@
                                             -->
                                         </div>
                                         <div class="col-md-6">
-                                        <!--
                                             <div class="faq-item">
                                                 <h3>
                                                     Where will RowdyHacks take place?
                                                 </h3>
-                                                We are excited to announce our partnership with collaborative coworking space Geekdom to bring you RowdyHacks 2019. This year’s event will take place in downtown San Antonio at Geekdom’s offices. Check out the Location tab for more information.
+                                                We will be hosting this year's RowdyHacks at the UTSA Downtown Campus, in downtown San Antonio.
                                             </div>
-                                            -->
                                             <!--
                                             <div class="faq-item">
                                                 <h3>
@@ -1138,7 +1136,7 @@
             </div>
         </section>      
 
-        <!--
+        
         <section id="location">
             <div class="container-fluid">
                 <div class="row">
@@ -1153,25 +1151,33 @@
                             </div>
                         </div>
                         <div class="row" style="max-width:100vw;text-align:center;">
-                            <div class="col-sm-3 col-xs-12">
-                                <img src="assets/images/geekdom.png" style="max-width:100%;margin:20px;" />
+                            <div class="col-sm-3 col-xs-12" style="vertical-align:middle">
+                                <!--<img src="assets/images/geekdom.png" style="max-width:100%;margin:20px;" />-->
+                                <div style="margin:0px 20px;font-family:'Roboto';">
+                                    <div style="font-weight:900;color:#f15a22;font-size:56px;font-family:inherit;">
+                                        UTSA
+                                    </div>
+                                    <div style="font-weight:300;color:#ffffff;font-size:42px;font-family:inherit;">
+                                        Downtown
+                                    </div>
+                                </div>
                             </div>
                             <div class="col-sm-9 col-xs-12">
                                 <p style="text-align:center;padding:10px 0% 10px 9%;">
-                                    Geekdom is the platinum sponsor for RowdyHacks 2019 which will be held at Geekdom in downtown San Antonio. Although RowdyHacks has previously been hosted at UTSA, this year it will be held downtown, closer to the heart of San Antonio's technology and start-up communities, making it easier for students and industry professionals to meet and see each other's work.
+                                    RowdyHacks is organized by Roadrunners from UTSA and will be held at UTSA's downtown campus. The downtown campus is closer to the heart of San Antonio's technology and start-up communities, making it easier for students and industry professionals to meet and see each other's work.
                                         <br />
                                         <br />
-                                        Parking is available on the street and in parking garages downtown. Transportation will be provided for UTSA students to and from the event. Details to be announced.
+                                        Parking is available at the downtown campus and in nearby garages. Transportation may be provided for UTSA students to and from the event. Details to be announced.
                                 </p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13900.345065130385!2d-98.493509!3d29.426275!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9584ae946a1e0d61!2sGeekdom!5e0!3m2!1sen!2sus!4v1517372280879" style="width:100vw;height:400px;" frameborder="0" style="position:relative;top:500px;border-style:none;" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13900.689239443771!2d-98.5027382!3d29.4237599!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x10615c0ae363c720!2sUTSA+Downtown+Campus!5e0!3m2!1sen!2sus!4v1542558003344" style="width:100vw;height:400px;" frameborder="0" style="position:relative;top:500px;border-style:none;" allowfullscreen></iframe>
         </section>
         
-
+        <!--
         <section id="volunteers" class="portfolio">
             <div class="container">
                 <div class="row">
