@@ -583,10 +583,10 @@
                                                 RowdyHacks is a 24-hour competitive programming event in which, teams of students work together to “hack” a website, app, or tool. Whether you have never written a line of code or you are a seasoned programmer, RowdyHacks is for everyone! Use RowdyHacks to your advantage to learn and gain valuable skills, increase your network, boost your resume and have fun.
                                             </p>
                                             <p id="about-2" style="display:none;">
-                                                RowdyHacks started in 2016 as a small, student-led hackathon sponsored by the Association of Computing Machinery at UTSA. Thanks to contributions from the Department of Computer Science at UTSA, the event has continued to grow bigger in size. This year RowdyHacks is expanding, as we welcome students from other San Antonio Universities and head to Downtown San Antonio for the first time.
+                                                RowdyHacks started in 2016 as a small, student-led hackathon sponsored by the Association of Computing Machinery at UTSA. Thanks to contributions from the Department of Computer Science at UTSA, the event has continued to grow bigger in size. This year RowdyHacks is expanding, as we welcome students from other San Antonio Universities and go to Downtown San Antonio.
                                             </p>
                                             <p id="about-3" style="display:none;">
-                                                RowdyHacks 2019 is going to be our best event yet! We are switching things up this year, and there’s a lot to look forward to. Hosted out of Geekdom’s downtown San Antonio offices, we are excited to bring you plenty of workshops, great music and food, swag bags and t-shirts, and of course, fantastic prizes! Register starting February 26 to secure your spot at RowdyHacks 2019!
+                                                RowdyHacks 2019 is going to be our best event yet! We are switching things up this year, and there’s a lot to look forward to. Hosted at UTSA's downtown campus in Downtown San Antonio, we are excited to bring you plenty of workshops, great music and food, t-shirts, and of course, fantastic prizes!
                                             </p>
                                         </div>
                                         <div class="about-bullet-container">
